@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Data-Science-Project/mlruns/0/b5a87bdf60334497b09b03f34107f6e8/artifacts
+end_time: 1722224553425
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5a87bdf60334497b09b03f34107f6e8
+run_name: angry-goose-338
+run_uuid: b5a87bdf60334497b09b03f34107f6e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722224533615
+status: 3
+tags: []
+user_id: '91720'
